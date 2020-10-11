@@ -10,6 +10,10 @@ div{
   vertical-align: middle;
 }
 
+::selection{
+  background-color: #006a71;
+  color: white;
+}
 
 body{
   background-color: #f6f5f5;
