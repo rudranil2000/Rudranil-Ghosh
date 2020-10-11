@@ -1,0 +1,198 @@
+.circular{
+  border-radius: 100%;
+}
+
+img:hover{
+  opacity: 0.9;
+}
+
+div{
+  vertical-align: middle;
+}
+
+
+body{
+  background-color: #f6f5f5;
+  margin: 10px auto 0 auto;
+  vertical-align: middle;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 400;
+  line-height: 2;
+  color: #555555;
+}
+.rg{
+  color: #006a71;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 600;
+  font-size: 50px;
+
+}
+
+h1{
+  color: #ff414d;
+}
+
+h2{
+  color: #1aa6b7;
+}
+
+.button{
+  background-color: #4CAF50;
+  background-image: url("rg_images\rg_bed_winter.jpeg");
+  border-radius: 50px;
+  border: 2px solid;
+  border-color: transparent;
+  color: white;
+  padding: 10px 18px;
+  margin: 20px 10px 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.button:hover{
+  background-color: white;
+  border: 2px solid;
+  border-color: #4CAF50;
+  color: #4CAF50;
+  padding: 10px 18px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+/*.btn {
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}*/
+
+.contact-form{
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: transparent;
+}
+
+.rg-LinkedIn{
+  margin: 0 auto 20px auto;
+  width: 250px;
+  box-shadow: 0 0 10px #aaaaaa;
+}
+
+.about{
+  text-align: center;
+  padding: 20px 0 30px 0;
+  min-height: 100%;
+  /*background-blend-mode: overlay;*/
+}
+
+.rg-intro{
+  text-align: justify;
+  width: 60%;
+  margin: 0 auto 20px  auto;
+}
+
+.what-i-do{
+  text-align: justify;
+  width: 60%;
+  margin: auto;
+}
+
+.web-design-img{
+  margin: 0 auto 20px auto;
+  width: 250px;
+  height: 250px;
+  box-shadow: 0 0 10px #aaaaaa;
+  object-fit: cover;
+}
+
+.what-i-do{
+  vertical-align: middle;
+  text-align: justify;
+}
+
+.web-design{
+  margin: 10px auto 60px auto;
+}
+
+.web-design-image{
+  float: left;
+  margin-right: 30px;
+}
+
+.web-design-content{
+  padding-top: 2px;
+}
+
+.video-editing{
+  margin: 10px 0 100px auto;
+}
+
+.video-editing-image{
+  float: right;
+  margin-left: 30px;
+}
+
+.video-editing-img{
+  margin: 0 auto 20px auto;
+  width: 250px;
+  height: 250px;
+  box-shadow: 0 0 10px #aaaaaa;
+  object-fit: cover;
+}
+
+.video-editing-content{
+  padding-top: 2px;
+}
+
+.music-production{
+  margin: 50px 0 60px auto;
+}
+
+.music-production-image{
+  float: left;
+  margin-right: 30px;
+}
+
+.music-production-img{
+  margin: 0 auto 20px auto;
+  width: 250px;
+  height: 250px;
+  box-shadow: 0 0 10px #aaaaaa;
+  object-fit: cover;
+
+}
+
+.video-editing-content{
+  padding-top: 2px;
+}
+
+.footer-widget{
+  background-color: #006a71;
+  text-align: center;
+  padding: 30px 0 0 0;
+  margin: 150px auto 0 auto;
+}
+
+.copyright{
+  background-color: #373a40;
+  color: #aaaaaa;
+  margin-bottom: 0;
+  padding: 5px 0 5px 0;
+}
+
+a{
+  margin: 0 20px 0 20px;
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #ff414d;
+}
